@@ -1,0 +1,22 @@
+{
+  "name": "jin-yong-s-collection",
+  "version": "1.0.0",
+  "description": "金庸小说介绍",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Assapatt/Jin-Yong-s-Collection.git"
+  },
+  "author": "zhouyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Assapatt/Jin-Yong-s-Collection/issues"
+  },
+  "homepage": "https://github.com/Assapatt/Jin-Yong-s-Collection#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
